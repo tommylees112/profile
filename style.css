@@ -96,7 +96,7 @@ li{
   background-image:url(images/mountains2.jpg);
   background-size: cover;
   background-position: center;
-  color: #c1c1c1;
+  color: white;
 }
 
 .table{
@@ -115,6 +115,10 @@ li{
 
 .tbl-padding{
   padding:300;
+}
+
+.dots-red {
+  color: #96B475;
 }
 
 .img-circle{
